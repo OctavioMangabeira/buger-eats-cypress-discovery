@@ -1,5 +1,9 @@
 <h1 align="center"> Projeto Cypress Discovery </h1>
-# buger-eats-cypress-discovery
+
+![Aplicação Buger Eats no qual foi realizado os testes automatizados com cypress ](https://user-images.githubusercontent.com/54001190/176681821-fdd3c218-be0e-4cc3-abc0-bacf472d318c.png)
+
+# buger-eats-cypress-discovery![buger-eats]
+
 Projeto de testes de aceitação do app BugerEats realizado no evento "Cypress Discovery" ministrado pelo professor Fernando Papito.
 Configurando o Ambiente ⚙️
 Cypress.io
