@@ -2,9 +2,16 @@
 
 ![Aplicação Buger Eats no qual foi realizado os testes automatizados com cypress ](https://user-images.githubusercontent.com/54001190/176681821-fdd3c218-be0e-4cc3-abc0-bacf472d318c.png)
 
-# buger-eats-cypress-discovery![buger-eats]
+![issues](https://img.shields.io/github/issues/OctavioMangabeira/buger-eats-cypress-discovery)
+![forks](https://img.shields.io/github/forks/OctavioMangabeira/buger-eats-cypress-discovery)
+![stars](https://img.shields.io/github/stars/OctavioMangabeira/buger-eats-cypress-discovery)
 
-Projeto de testes de aceitação do app BugerEats realizado no evento "Cypress Discovery" ministrado pelo professor Fernando Papito.
+# [Descrição do Projeto](#descrição-do-projeto)
+
+Projeto de testes automatizados utlizando o framework cypress na aplicação BugerEats <br/>
+Aplicação: <a href="https://buger-eats.vercel.app/" rel="nofollow">Buger Eats</a>
+
+
 Configurando o Ambiente ⚙️
 Cypress.io
 
