@@ -12,6 +12,7 @@
 * [Requisitos para instalação](#requisitos-para-instalação)
 * [Instalação](#instalação)
 * [Como iniciar o Cypress](#como-iniciar-o-cypress)
+* [Resultados](#resultados)
 
 <h2 dir="auto">Descrição do Projeto</h2> 
 
@@ -39,3 +40,10 @@ npm run test
 Para rodar o Cypress por modo headless é preciso realizar o seguinte comando:
 
 npx cypress run
+
+<h2 dir="auto">Resultados</h2> 
+
+
+
+* Pipeline CI/CD: <a href="https://github.com/OctavioMangabeira/buger-eats-cypress-discovery/actions">GitHub Actions</a><br />
+* Relatórios com os resultados dos testes: <a href="https://dashboard.cypress.io/projects/v5u7x2/runs?branches=%5B%5D&committers=%5B%5D&flaky=%5B%5D&page=1&status=%5B%5D&tags=%5B%5D&timeRange=%7B%22startDate%22%3A%221970-01-01%22%2C%22endDate%22%3A%222038-01-19%22%7D" rel="nofollow">Cypress dashboard</a>
