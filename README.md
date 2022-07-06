@@ -6,30 +6,36 @@
 ![forks](https://img.shields.io/github/forks/OctavioMangabeira/buger-eats-cypress-discovery)
 ![stars](https://img.shields.io/github/stars/OctavioMangabeira/buger-eats-cypress-discovery)
 
-# [Descrição do Projeto](#descrição-do-projeto)
+## Índice
+
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Requisitos para instalação](#requisitos-para-instalação)
+* [Instalação](#instalação)
+* [Como iniciar o Cypress](#como-iniciar-o-cypress)
+
+<h2 dir="auto">Descrição do Projeto</h2> 
 
 Projeto de testes automatizados utlizando o framework cypress na aplicação BugerEats <br/>
 Aplicação: <a href="https://buger-eats.vercel.app/" rel="nofollow">Buger Eats</a>
 
+<h2 dir="auto">Requisitos para instalação</h2> 
 
-Configurando o Ambiente ⚙️
-Cypress.io
+Node.js <br />
+NPM <br />
+Visual Studio Code
 
-Documentação Cypress
+<h2 dir="auto">Instalação</h2> 
 
-Requisitos para instalação
-Node.js
-Java 8 ou superrior.
+* Realizar o git clone do projeto;
+* Abrir o projeto no Visual Studio Code;
+* Abrir o terminal do Visual Studio Code e digitar o comando npm install.
 
-Instalação do NPM e instalação do Cypress
-Na pasta do projeto abra o terminal ou no VSCode use o Ctrl + ' (aspas simples), e digite os comandos abaixo:
+<h2 dir="auto">Como iniciar o Cypress</h2> 
 
-npm init -y
-npm install --yes
-npm install cypress@6.8.0 --save-dev
+Para rodar o Cypress no modo navegador é preciso realizar o seguinte comando:
 
-Comandos para iniciar o Cypress ⚙️
-Iniciar o Cypress no navegador:
-npx cypress open
-Para executar em modo headless:
+npm run test
+
+Para rodar o Cypress por modo headless é preciso realizar o seguinte comando:
+
 npx cypress run
